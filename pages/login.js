@@ -14,7 +14,7 @@ const Login = () => {
                 router.push('/')
             }
         })
-    },[])
+    })
     return (
         <Wrapper>
             <UberLogo src="https://i.ibb.co/84stgjq/uber-technologies-new-20218114.jpg"/>
