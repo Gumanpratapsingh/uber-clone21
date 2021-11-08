@@ -57,7 +57,7 @@ const Search = () => {
                 pickup:pickup,
                 dropoff:dropoff
             }
-        }}>
+        }} passHref>
 
     <ConfirmLocation>
         Confirm Locations
