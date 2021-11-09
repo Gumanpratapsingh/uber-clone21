@@ -3,7 +3,8 @@ This project was made by using Tailwind-Css,Next.Js and On React.JS
 
 
 
-https://vimeo.com/643784903
+https://user-images.githubusercontent.com/39875796/140862898-6f4f0764-dcf8-454e-94f4-ce10d437e6c0.mp4
+
 
 
 
